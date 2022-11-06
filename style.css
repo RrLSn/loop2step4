@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #a587ea;
+}
+
+main{
+    width: 22rem;
+    height: 22.8rem;
+    background-color: #ffffff;
+    margin: 7rem 42.2rem;
+    display: grid;
+    grid-template-rows: 6.5rem 1fr 4.5rem;
+}
+
+.photo{
+    width: 100%;
+    background-color: #ae7bd5;
+}
+
+.photos{
+    width: 80%;
+    display: grid;
+    grid-template-columns: 3rem 1fr 1rem;
+    margin: 4rem 2rem;
+
+}
+
+.img{
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 50%;
+    background-color: #ffffff;
+}
+
+.img img{
+    height: 1rem;
+    width: 1rem;
+    margin: 0.2rem;
+}
+
+.iline{
+    width: 0.2rem;
+    height: 5rem;
+    background-color: #ffffff;
+}
+
+.text{
+    width: 100%;
+    background-color: #5f5280;
+}
+
+.files{
+    width: 100%;
+    background-color: #9777d0;
+}
