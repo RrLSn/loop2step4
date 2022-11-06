@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #55557e;
+}
+
+.cards{
+    display: flex;
+    text-align: center;
+    margin: 7rem 39rem;
+    gap: 0.2rem;
+}
+
+.card{
+    width: 6rem;
+    height: 4.5rem;
+    background-color: #353648;
+    padding-top: 1rem;
+    cursor: pointer;
+}
+.card:hover{
+    background-color: #2b2c36;
+}
+
+.big{
+    width: 7.5rem;
+    height: 6rem;
+    background-color: #252525;
+    margin-top: -1rem;
+    padding-top: 2rem;
+    cursor: pointer;
+}
+
+.card img{
+    opacity: 0.7;
+}
+
+main{
+    width: 23rem;
+    height: 28rem;
+    margin: -4.5rem 42rem;
+    display: grid;
+    grid-template-rows: 11rem 1fr;
+}
+
+.cook{
+    width: 100%;
+    background-image: url("./media/food.jpg");
+    background-size: cover;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.food{
+    width: 7rem;
+    height: 5rem;
+    margin: 6rem 1.5rem;
+}
+
+.lot{
+    display: flex;
+    width: 80%;
+    height: 1rem;
+    gap: 0.5rem;
+}
+
+.info{
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.price{
+    width: 90%;
+    height: 90%;
+    margin: 1rem 0 0 1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #a2a7a7;
+}
+
+.details{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+}
+
+.line{
+    width: 100%;
+    height: 0.1rem;
+    background-color: #a2a7a7;
+}
+
+.details h2{
+    font-size: 1.2rem;
+}
+
+.details p{
+    font-size: 1.2rem;
+}
+
+.details:hover{
+    color: black;
+}
