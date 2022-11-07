@@ -13,7 +13,7 @@ HTML
 CSS
 
 # Demo
-[preview](https://rawcdn.githack.com/RrLSn/loop2step4/0ef3d52036578b0030178f6def2241e1feebf095/index.html)
+[preview]()
 ![screenshot](./media/Screenshot%202022-11-07%20172538.png)
 
 # Contact
