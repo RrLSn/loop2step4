@@ -13,8 +13,8 @@ HTML
 CSS
 
 # Demo
-[preview](https://rawcdn.githack.com/RrLSn/loop2step3/4856cb50c6daf1a817a008cb03b267f5e279bf02/index.html)
-![screenshot](./media/Screenshot%202022-11-07%20155209.png)
+[preview](https://rawcdn.githack.com/RrLSn/loop2step3/bd4dab9b64a2da226fee3598692961e03044d098/index.html)
+![screenshot](./media/Screenshot%202022-11-07%20172538.png)
 
 # Contact
 If you want to contact me, you can reach me at
