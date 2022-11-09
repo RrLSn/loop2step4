@@ -103,6 +103,10 @@ main{
     font-size: 1.2rem;
 }
 
-.details:hover{
+
+
+.details:hover p{
+    transform: scale(1.4);
     color: black;
+
 }
