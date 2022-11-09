@@ -1,12 +1,12 @@
-# loop2step3
+# loop2step4
 # fcc-Loop assignment
-An implementation of Loop 2 assignment step 3 with HTML/CSS
+An implementation of Loop 2 assignment step 4 with HTML/CSS
 
 # Getting Started
 clone or download this respository and run with a local server of open 'index.html' with your favorite browser
 
 # Prequisite
-Your browser version must be recent for a better experience https://github.com/RrLSn/loop2step3.git
+Your browser version must be recent for a better experience https://github.com/RrLSn/loop2step4.git
 
 # Tech/framework used
 HTML
